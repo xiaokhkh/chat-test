@@ -1,0 +1,14 @@
+{
+  "name": "chat-test",
+  "version": "0.0.1",
+  "description": "socket.io test",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "konh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
